@@ -1,1 +1,1 @@
-# JS_crash_course
+# JavaScript_course
